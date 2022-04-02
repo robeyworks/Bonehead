@@ -218,7 +218,6 @@ Project Link: [https://github.com/robeyworks/Bonehead](https://github.com/robeyw
 
 * [Lee Denbigh](https://www.buymeacoffee.com/leedenbigh)
 * [Valcrist Elestri](https://na.finalfantasyxiv.com/lodestone/character/2805418/)
-* [r/badUIbattles](https://www.reddit.com/r/badUIbattles/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
