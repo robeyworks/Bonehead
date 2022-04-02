@@ -80,28 +80,39 @@
 
 
 <!-- ABOUT THE PROJECT -->
-<!--## About The Project
+## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+There are many great web browser options available on the open web; however, I couldn't find one that was completely useless and so I created this one to make up for that. I want to create a web browser that is so incredibly horrible that it'll be the last one anyone ever wants to use: a rival to Internet Explorer.
+
+Here's why:
+* Intuitive UI is a thing of the past. You should get lost trying to perform even the simplest of tasks
+* There's no way in hell this project will compete with any existing programs that offer the same service
+* I needed an excuse to learn C# and a project to waste my time on
+
+The only reason this exists is so I can learn and experiment in the UWP so while I won't condemn any serious use I certainly don't reccomend using this for anything other than playing around.
+<!--You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this project!-->
+
 <p align="right">(<a href="#top">back to top</a>)</p>
--->
+
 
 
 
 <!--### Built With
 
-* [Next.js](https://nextjs.org/)
+* [Much Confusion]()
+<!--* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [JQuery](https://jquery.com)-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
--->
+
 
 
 
@@ -206,8 +217,8 @@ Project Link: [https://github.com/robeyworks/Bonehead](https://github.com/robeyw
 ## Acknowledgments
 
 * [Lee Denbigh](https://www.buymeacoffee.com/leedenbigh)
-<!--* []()
-* []()-->
+* [Valcrist Elestri](https://na.finalfantasyxiv.com/lodestone/character/2805418/)
+* [r/badUIbattles](https://www.reddit.com/r/badUIbattles/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
