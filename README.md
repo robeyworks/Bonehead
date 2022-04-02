@@ -109,10 +109,10 @@ The only reason this exists is so I can learn and experiment in the UWP so while
 * [Svelte](https://svelte.dev/)
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)-->
+* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 
