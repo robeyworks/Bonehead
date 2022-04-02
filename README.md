@@ -223,7 +223,7 @@ Project Link: [https://github.com/robeyworks/Bonehead](https://github.com/robeyw
 [stars-url]: https://github.com/robeyworks/Bonehead/stargazers
 [issues-shield]: https://img.shields.io/github/issues/robeyworks/Bonehead.svg?style=for-the-badge
 [issues-url]: https://github.com/robeyworks/Bonehead/issues
-[license-shield]: https://img.shields.io/github/license/robeyworks/Bonehead.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/robeyworks/Bonehead.svg?label=license&style=for-the-badge
 [license-url]: https://github.com/robeyworks/Bonehead/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/robeyworks
